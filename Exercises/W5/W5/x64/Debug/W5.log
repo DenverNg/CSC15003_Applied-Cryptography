@@ -1,0 +1,6 @@
+﻿  source.cpp
+C:\Users\ADMIN\CODE\CSC15003_Applied-Cryptography\Exercises\W5\source.cpp(8,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ADMIN\CODE\CSC15003_Applied-Cryptography\Exercises\W5\source.cpp(9,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ADMIN\CODE\CSC15003_Applied-Cryptography\Exercises\W5\source.cpp(29,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ADMIN\CODE\CSC15003_Applied-Cryptography\Exercises\W5\source.cpp(30,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  W5.vcxproj -> C:\Users\ADMIN\CODE\CSC15003_Applied-Cryptography\Exercises\W5\x64\Debug\W5.exe

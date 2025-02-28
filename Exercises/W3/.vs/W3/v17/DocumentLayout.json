@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\CODE\\CSC15003_Applied-Cryptography\\Exercises\\W3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13752FCB-0B88-41BD-B7CB-61E3A5648DA0}|W3.vcxproj|C:\\Users\\ADMIN\\CODE\\CSC15003_Applied-Cryptography\\Exercises\\W3\\w3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{13752FCB-0B88-41BD-B7CB-61E3A5648DA0}|W3.vcxproj|solutionrelative:w3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "w3.cpp",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\CODE\\CSC15003_Applied-Cryptography\\Exercises\\W3\\w3.cpp",
+              "RelativeDocumentMoniker": "w3.cpp",
+              "ToolTip": "C:\\Users\\ADMIN\\CODE\\CSC15003_Applied-Cryptography\\Exercises\\W3\\w3.cpp",
+              "RelativeToolTip": "w3.cpp",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAEgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-13T02:05:02.581Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
