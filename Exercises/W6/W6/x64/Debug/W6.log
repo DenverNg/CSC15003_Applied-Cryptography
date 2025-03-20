@@ -1,0 +1,9 @@
+﻿  md4.cpp
+C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W6\md4.cpp(42,64): warning C4244: 'argument': conversion from 'uint64_t' to '_Ty', possible loss of data
+C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W6\md4.cpp(42,64): warning C4244:         with
+C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W6\md4.cpp(42,64): warning C4244:         [
+C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W6\md4.cpp(42,64): warning C4244:             _Ty=uint8_t
+C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W6\md4.cpp(42,64): warning C4244:         ]
+  W6.vcxproj -> C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W6\x64\Debug\W6.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

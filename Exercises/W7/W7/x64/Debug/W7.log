@@ -1,0 +1,201 @@
+﻿  main.cpp
+C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(701,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(702,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(761,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(762,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(850,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(851,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(882,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(955,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(978,17): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'main.cpp')
+  
+C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(984,33): warning C4244: 'argument': conversion from 'unsigned __int64' to '_Elem', possible loss of data
+C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(984,33): warning C4244:         with
+C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(984,33): warning C4244:         [
+C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(984,33): warning C4244:             _Elem=char
+C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(984,33): warning C4244:         ]
+  (compiling source file 'main.cpp')
+  
+C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(1014,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(1014,44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\main.cpp(7,36): error C2248: 'bigint::str': cannot access private member declared in class 'bigint'
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(64,21):
+      see declaration of 'bigint::str'
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(62,7):
+      see declaration of 'bigint'
+  
+C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\main.cpp(9,9): error C2666: 'bigint::operator ==': overloaded functions have similar conversions
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(510,14):
+      could be 'bool bigint::operator ==(const bigint &)'
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(513,21):
+      or       'bool operator ==(const bigint &,int)' [found using argument-dependent lookup]
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(519,21):
+      or       'bool operator ==(const bigint &,long)' [found using argument-dependent lookup]
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(525,21):
+      or       'bool operator ==(const bigint &,__int64)' [found using argument-dependent lookup]
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\main.cpp(9,9):
+      while trying to match the argument list '(bigint, int)'
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\main.cpp(9,9):
+      qualification adjustment (const/volatile) may be causing the ambiguity
+  
+C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\main.cpp(9,24): error C2666: 'bigint::operator -': overloaded functions have similar conversions
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(190,16):
+      could be 'bigint bigint::operator -(const bigint &)'
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(196,23):
+      or       'bigint operator -(const bigint &,int)' [found using argument-dependent lookup]
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(206,23):
+      or       'bigint operator -(const bigint &,long)' [found using argument-dependent lookup]
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(216,23):
+      or       'bigint operator -(const bigint &,__int64)' [found using argument-dependent lookup]
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\main.cpp(9,24):
+      while trying to match the argument list '(bigint, int)'
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\main.cpp(9,24):
+      qualification adjustment (const/volatile) may be causing the ambiguity
+  
+C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\main.cpp(12,17): error C2666: 'bigint::operator -': overloaded functions have similar conversions
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(190,16):
+      could be 'bigint bigint::operator -(const bigint &)'
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(196,23):
+      or       'bigint operator -(const bigint &,int)' [found using argument-dependent lookup]
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(206,23):
+      or       'bigint operator -(const bigint &,long)' [found using argument-dependent lookup]
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(216,23):
+      or       'bigint operator -(const bigint &,__int64)' [found using argument-dependent lookup]
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\main.cpp(12,17):
+      while trying to match the argument list '(bigint, int)'
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\main.cpp(12,17):
+      qualification adjustment (const/volatile) may be causing the ambiguity
+  
+C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\main.cpp(15,13): error C2666: 'bigint::operator ==': overloaded functions have similar conversions
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(510,14):
+      could be 'bool bigint::operator ==(const bigint &)'
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(513,21):
+      or       'bool operator ==(const bigint &,int)' [found using argument-dependent lookup]
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(519,21):
+      or       'bool operator ==(const bigint &,long)' [found using argument-dependent lookup]
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(525,21):
+      or       'bool operator ==(const bigint &,__int64)' [found using argument-dependent lookup]
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\main.cpp(15,13):
+      while trying to match the argument list '(bigint, int)'
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\main.cpp(15,13):
+      qualification adjustment (const/volatile) may be causing the ambiguity
+  
+C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\main.cpp(16,18): error C2666: 'bigint::operator -': overloaded functions have similar conversions
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(190,16):
+      could be 'bigint bigint::operator -(const bigint &)'
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(196,23):
+      or       'bigint operator -(const bigint &,int)' [found using argument-dependent lookup]
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(206,23):
+      or       'bigint operator -(const bigint &,long)' [found using argument-dependent lookup]
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(216,23):
+      or       'bigint operator -(const bigint &,__int64)' [found using argument-dependent lookup]
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\main.cpp(16,18):
+      while trying to match the argument list '(bigint, int)'
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\main.cpp(16,18):
+      qualification adjustment (const/volatile) may be causing the ambiguity
+  
+C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\main.cpp(22,9): error C2666: 'bigint::operator ==': overloaded functions have similar conversions
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(510,14):
+      could be 'bool bigint::operator ==(const bigint &)'
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(513,21):
+      or       'bool operator ==(const bigint &,int)' [found using argument-dependent lookup]
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(519,21):
+      or       'bool operator ==(const bigint &,long)' [found using argument-dependent lookup]
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(525,21):
+      or       'bool operator ==(const bigint &,__int64)' [found using argument-dependent lookup]
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\main.cpp(22,9):
+      while trying to match the argument list '(bigint, int)'
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\main.cpp(22,9):
+      qualification adjustment (const/volatile) may be causing the ambiguity
+  
+C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\main.cpp(22,19): error C2666: 'bigint::operator ==': overloaded functions have similar conversions
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(510,14):
+      could be 'bool bigint::operator ==(const bigint &)'
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(513,21):
+      or       'bool operator ==(const bigint &,int)' [found using argument-dependent lookup]
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(519,21):
+      or       'bool operator ==(const bigint &,long)' [found using argument-dependent lookup]
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(525,21):
+      or       'bool operator ==(const bigint &,__int64)' [found using argument-dependent lookup]
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\main.cpp(22,19):
+      while trying to match the argument list '(bigint, int)'
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\main.cpp(22,19):
+      qualification adjustment (const/volatile) may be causing the ambiguity
+  
+C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\main.cpp(23,9): error C2666: 'bigint::operator <': overloaded functions have similar conversions
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(434,14):
+      could be 'bool bigint::operator <(const bigint &)'
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(437,21):
+      or       'bool operator <(const bigint &,int)' [found using argument-dependent lookup]
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(443,21):
+      or       'bool operator <(const bigint &,long)' [found using argument-dependent lookup]
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(449,21):
+      or       'bool operator <(const bigint &,__int64)' [found using argument-dependent lookup]
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\main.cpp(23,9):
+      while trying to match the argument list '(bigint, int)'
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\main.cpp(23,9):
+      qualification adjustment (const/volatile) may be causing the ambiguity
+  
+C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\main.cpp(23,18): error C2666: 'bigint::operator %': overloaded functions have similar conversions
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(328,16):
+      could be 'bigint bigint::operator %(const bigint &)'
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(333,23):
+      or       'bigint operator %(const bigint &,int)' [found using argument-dependent lookup]
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(343,23):
+      or       'bigint operator %(const bigint &,long)' [found using argument-dependent lookup]
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(353,23):
+      or       'bigint operator %(const bigint &,__int64)' [found using argument-dependent lookup]
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\main.cpp(23,18):
+      while trying to match the argument list '(bigint, int)'
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\main.cpp(23,18):
+      qualification adjustment (const/volatile) may be causing the ambiguity
+  
+C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\main.cpp(25,16): error C2666: 'bigint::operator -': overloaded functions have similar conversions
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(190,16):
+      could be 'bigint bigint::operator -(const bigint &)'
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(196,23):
+      or       'bigint operator -(const bigint &,int)' [found using argument-dependent lookup]
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(206,23):
+      or       'bigint operator -(const bigint &,long)' [found using argument-dependent lookup]
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(216,23):
+      or       'bigint operator -(const bigint &,__int64)' [found using argument-dependent lookup]
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\main.cpp(25,16):
+      while trying to match the argument list '(bigint, int)'
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\main.cpp(25,16):
+      qualification adjustment (const/volatile) may be causing the ambiguity
+  
+C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\main.cpp(26,12): error C2666: 'bigint::operator %': overloaded functions have similar conversions
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(328,16):
+      could be 'bigint bigint::operator %(const bigint &)'
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(333,23):
+      or       'bigint operator %(const bigint &,int)' [found using argument-dependent lookup]
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(343,23):
+      or       'bigint operator %(const bigint &,long)' [found using argument-dependent lookup]
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\bigint.h(353,23):
+      or       'bigint operator %(const bigint &,__int64)' [found using argument-dependent lookup]
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\main.cpp(26,12):
+      while trying to match the argument list '(bigint, int)'
+      C:\Users\p14s\CODE\CSC15003_Applied-Cryptography\Exercises\W7\main.cpp(26,12):
+      qualification adjustment (const/volatile) may be causing the ambiguity
+  
